@@ -1,4 +1,4 @@
-# Siri-Sleep-Timer
+# Siri Sleep Timer Shortcut
 Siri shortcut that will pause your media after a chosen time on MacOS or iOS.
 
 ![Screenshot of the shortcut button](https://github.com/dansl/iOS-SleepTimer/blob/main/img/img1.png?raw=true)
